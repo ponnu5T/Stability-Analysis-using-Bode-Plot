@@ -10,6 +10,7 @@ Computer with MATLAB software
 ![Uploading image.png…]()
 
 
+
 ## Procedure:
 	Open MATLAB software
 	Open a new script file.
